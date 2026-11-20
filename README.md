@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Munshid Kavanur 👋
 
-<!--
-**signfx-sa/signfx-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☕ From Coffee Beans to Codebases
+**Full-Stack Web Development | Design | AI Automation**
 
-Here are some ideas to get you started:
+I'm a developer building modern websites, custom web applications, and practical AI-powered solutions, with a focus on businesses in Kerala, India, and the UAE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey started behind a coffee counter. Today, I'm turning that creativity and attention to detail into code.
+
+## 🚀 What I Do
+- Full-Stack Web Development
+- Responsive Website Design
+- Custom Web Applications
+- AI Automation & Workflow Solutions
+
+## 🛠️ Technologies
+TypeScript • JavaScript • React • Cloudflare Workers • PostgreSQL • Supabase
+
+## 🌐 Explore My Portfolio
+Visit **[www.munshidkavanur.com](https://www.munshidkavanur.com/)** to see my projects and development journey.
+
+---
+📍 Kerala, India | UAE
